@@ -47,7 +47,7 @@ npm run dev
 … flexbox and flex-wrap
 … clean GitHub project structure
 
-🔮 Future Improvements
+🔮 And yeah for the Future Improvements
 
 … center interactive card
 … color click counter
